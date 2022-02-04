@@ -10,4 +10,4 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img style="float: right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
