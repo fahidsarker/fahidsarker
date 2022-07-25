@@ -1,7 +1,7 @@
 ## Hi, I am Fahid 👋
 
 <div  align="center" desplay="flex">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadFahidSarker&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&&hide=stars,prs,contribs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadFahidSarker&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true&&hide=stars"/>
 </div>
 
 ### 📱 Published Apps
