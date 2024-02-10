@@ -16,6 +16,8 @@
 <a href="https://pub.dev/packages/bijoy_helper">bijoy_helper</a>
   |
 <a href="https://pub.dev/packages/solid_shared_pref">solid_shared_pref </a>
+    |
+<a href="https://pub.dev/packages/dart_string_compressor">dart_string_compressor </a>
 </p>
 
 
