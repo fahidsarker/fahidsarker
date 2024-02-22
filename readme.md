@@ -26,6 +26,9 @@
 ### I work with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,flutter,dart)](https://fahid.dev)
 <div  align="right" desplay="flex">
-  <img align="left-bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahidsarker&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
-<img style="float: right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img style="float: right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 </div>
+
+### Top Languages
+  <img align="left-bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahidsarker&theme=react&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
+
