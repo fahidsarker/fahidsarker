@@ -1,10 +1,10 @@
 ## Hi, I am Fahid 👋 ([fahid.dev](https://fahid.dev))
 
-<div  align="center" desplay="flex">
+<div  align="center" >
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahidsarker&show_icons=true&count_private=true"/>
-<img height="0" width="0" src="https://komarev.com/ghpvc/?username=fahidsarker"/>
-</div>
 
+</div>
+<img  src="https://komarev.com/ghpvc/?username=fahidsarker&style=for-the-badge&base=956"/>
 ### 📱 Published Apps
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.muhammadfahid.minimaladhan"><img alt="Azan" src="https://github.com/MuhammadFahidSarker/minimal_adhan/raw/master/logos/logo.png" height="126px"></a>
