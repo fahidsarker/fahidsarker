@@ -2,6 +2,7 @@
 
 <div  align="center" desplay="flex">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahidsarker&show_icons=true&count_private=true"/>
+<img height="0" width="0" src="https://komarev.com/ghpvc/?username=fahidsarker"/>
 </div>
 
 ### 📱 Published Apps
