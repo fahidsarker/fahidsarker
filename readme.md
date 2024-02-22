@@ -1,7 +1,7 @@
 ## Hi, I am Fahid 👋 ([fahid.dev](https://fahid.dev))
 
 <div  align="center" >
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahidsarker&show_icons=true&count_private=true"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahidsarker&show_icons=true&count_private=true&theme=react"/>
 
 </div>
 <img  src="https://komarev.com/ghpvc/?username=fahidsarker&style=for-the-badge&base=956"/>
