@@ -5,7 +5,7 @@
 
 </div>
 <img  src="https://komarev.com/ghpvc/?username=fahidsarker&style=for-the-badge&base=956"/>
-### 📱 Published Apps
+📱 Published Apps
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.muhammadfahid.minimaladhan"><img alt="Azan" src="https://github.com/MuhammadFahidSarker/minimal_adhan/raw/master/logos/logo.png" height="126px"></a>
   <a href="https://play.google.com/store/apps/details?id=com.muhammadfahid.sqliter"><img alt="Azan" src="https://play-lh.googleusercontent.com/V6ie-a61SB2eY3NXfkJht09Q9UFYzWgXLmtgZ9qtfgm21DV7Unm9CufHJHxlLklN2Fw=w240-h480-rw" height="126px"></a>
@@ -13,7 +13,7 @@
     <a href="https://code.fahid.dev"><img alt="Photon" src="https://github.com/fahidsarker/photon/blob/main/public/logo/code-logo.png" height="126px"></a>
 </p>
 
-### 🦉 Published Flutter Packages
+🦉 Published Flutter Packages
 <p>
 <a href="https://pub.dev/packages/bijoy_helper">bijoy_helper</a>
   |
