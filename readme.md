@@ -1,6 +1,6 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=fahidsarker&base=1003&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A087&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahid)](https://fahid.dev)
+<h2>Hi 👋, I'm Fahid</h2>
 <h3>A Senior Full-Stack App & Web Developer</h3>
 
 - 🔭 Check out [fahid.dev](https://fahid.dev)
