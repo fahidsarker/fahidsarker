@@ -29,4 +29,6 @@
 <a href="https://pub.dev/packages/dart_string_compressor">dart_string_compressor </a>
 </div>
 
+<br/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahidsarker&layout=compact&theme=onedark" />
 <h4>Drink? Tea please ☕︎</h4>
