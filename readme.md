@@ -11,7 +11,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,planetscale,mysql,md,firebase,express,electron,cloudflare"/>
 </p>
-
 <h3>Published Apps</h3>
 <div>
   <a href="https://play.google.com/store/apps/details?id=com.muhammadfahid.minimaladhan"><img alt="Azan" src="https://github.com/MuhammadFahidSarker/minimal_adhan/raw/master/logos/logo.png" height="126px"></a>
