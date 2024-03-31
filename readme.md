@@ -1,4 +1,4 @@
-[![Visits Badge](https://komarev.com/ghpvc/?username=fahidsarker&base=1003&label=Profile%20views&color=red&style=for-the-badge)](https://honghong.me)
+[![Visits Badge](https://komarev.com/ghpvc/?username=fahidsarker&base=1003&label=Profile%20views&color=red&style=for-the-badge)](https://fahid.dev)
 
 <h2>Hi 👋, I'm Fahid</h2>
 <h3>A Senior Full-Stack App & Web Developer</h3>
