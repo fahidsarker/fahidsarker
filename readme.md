@@ -1,5 +1,5 @@
 [![Visits Badge](https://komarev.com/ghpvc/?username=fahidsarker&base=2003&label=Profile%20views&color=red&style=for-the-badge)](https://fahid.dev)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffahidsarker&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 <h2>Hi 👋, I'm Fahid</h2>
 <h3>A Senior Full-Stack App & Web Developer</h3>
 
